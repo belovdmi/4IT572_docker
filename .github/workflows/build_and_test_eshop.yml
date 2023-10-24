@@ -1,4 +1,4 @@
-name: Build and tests eshop
+name: Build and tests eshop workflow
 
 # start and executes on push
 on: 
